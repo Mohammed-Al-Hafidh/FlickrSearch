@@ -67,11 +67,12 @@ namespace FlickrSearch
                 {
                     Content = title,
                 };
+
                 Image img = new Image();
                 
                 
                     
-                //var fullFilePath = @"http://www.americanlayout.com/wp/wp-content/uploads/2012/08/C-To-Go-300x300.png";
+                
 
                 BitmapImage bitmap = new BitmapImage();
                 bitmap.BeginInit();
